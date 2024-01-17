@@ -1,0 +1,14 @@
+{
+  "name": "mantto-server",
+  "version": "1.0.0",
+  "description": "Server from mantto-yanbal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abraham Guzman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
